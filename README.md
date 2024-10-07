@@ -6,7 +6,7 @@
 
 | Project Name  | Tools Used | Go To Project |
 | ------------- | ------------- | ------------- |
-| Sales Data Cleaning  | Excel formulas, pivot tables  | Content Cell |
+| Sales Data Cleaning  | Excel formulas, pivot tables  | [Project Link](https://github.com/Stephanie01011011/Sales-Data-Cleaning) |
 
 # SQL
 
