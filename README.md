@@ -1,12 +1,6 @@
 # Data Portfolio Projects
 
-<h2>Project Types</h2>
-
-* [Excel](Excel)
-* [SQL](SQL)
-* [Python](Python)
-* [Tableau](Tableau)
-* [Power BI](PowerBI)
+<h2>Projects</h2>
 
 # Excel
 
